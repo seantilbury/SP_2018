@@ -1,0 +1,36 @@
+/*
+Theme Name: Southern Pursuits Alpha
+Template: wp-bootstrap-starter
+Author: Sean Tilbury
+Tags: blog,custom-menu,featured-images,threaded-comments,translation-ready,right-sidebar,custom-background,e-commerce,theme-options,sticky-post,full-width-template
+Version: 0.0.1.1518789544
+Updated: 2018-02-16 13:59:04
+
+*/
+
+/*Header and Footer Background Colour*/
+header#masthead {background-color: #000000}
+
+/* Content Spacing */
+.page-content, .entry-content, .entry-summary {margin: 0rem}
+#content.site-content {padding-top:0rem}
+
+/*Main Page Background Colour*/
+#content.site-content {background-color:#202020}
+
+/*Footer Widget Area*/
+#footer-widget {
+    display: flex;
+}
+.bg-light{color:whitesmoke;background-color:#202020!important}
+h3.widget-title {color:white}
+.border {border:0px!important;}
+
+/*Site Footer Styling*/
+.site-footer {background-color:#e52027!important;color:#fff!important}
+.site-info {margin: 0 auto; width: 165px;}
+
+/*Typology*/
+p {color:#fff;margin-bottom:0}
+h1 {color:#fff}
+h2 {color:#fff}
