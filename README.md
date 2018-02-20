@@ -2,7 +2,7 @@
 SP_2018 dev child theme
 
 
-##Colours
+## Colours
 
 **Black** 	    #000000
 **Dark Grey** 	#202020
