@@ -18,6 +18,9 @@ header#masthead {background-color: #000000}
 /*Main Page Background Colour*/
 #content.site-content {background-color:#202020}
 
+/*Red Boxes*/
+.redbox {background-color:#E52027!important;height:250px;}
+
 /*Footer Widget Area*/
 #footer-widget {
     display: flex;
@@ -34,3 +37,13 @@ h3.widget-title {color:white}
 p {color:#fff;margin-bottom:0}
 h1 {color:#fff}
 h2 {color:#fff}
+
+/*Media Queries*/
+@media (min-width: 768px) {
+	/*footer widget width*/
+.col-md-4 { 
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+	max-width: 25%;}
+	}
