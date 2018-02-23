@@ -27,7 +27,7 @@ function arphabet_widgets_init() {
 		'after_title'   => '</h2>',
 	) );
 	register_sidebar( array(
-		'name'          => 'Header Widget Are',
+		'name'          => 'Header Widget Area',
 		'id'            => 'headerwidget',
 		'before_widget' => '<div>',
 		'after_widget'  => '</div>',
