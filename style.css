@@ -46,4 +46,29 @@ h2 {color:#fff}
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
 	max-width: 25%;}
-	}
+	}ant;
+}
+#footer-widget {
+    display: flex;
+}
+.site-footer {
+    background-color: #e52027 !important;
+    color: #fff !important;
+}
+.site-info {
+    width: 165px;
+    margin: 0 auto;
+}
+
+@media (min-width: 1200px){
+.container {
+max-width: 1900px;
+}
+}
+@media (min-width: 768px) {
+.col-md-4 {
+    max-width: 25%;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+}
+}
