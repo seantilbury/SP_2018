@@ -13,7 +13,9 @@ SP_2018 dev child theme
 **Red** 		    #E52027
 
 
-# Shortcodes
+## Shortcodes for Prices and Packages
+
+To edit packages and prices goto dashboard, **Settings** > **Post Snippets**
 
 [rage] - Rage Single Activity
 
@@ -22,3 +24,8 @@ SP_2018 dev child theme
 [dualpackage] - Dual Package
 
 [upgradeddual] - Upgraded Dual Package
+
+
+[targetmadness] - Target Madness
+
+[aimandterrain] - Aim and Terrain
