@@ -29,3 +29,15 @@ To edit packages and prices goto dashboard, **Settings** > **Post Snippets**
 [targetmadness] - Target Madness
 
 [aimandterrain] - Aim and Terrain
+
+
+## Font Awesome Icons
+
+Phone <i class="fas fa-phone"></i>
+Map <i class="fas fa-map"></i>
+Plane <i class="fas fa-plane" data-fa-transform="rotate-315"></i>
+
+Facebook
+Twitter
+Youtube
+Instagram
