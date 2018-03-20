@@ -41,7 +41,7 @@ Plane ```<i class="fas fa-plane" data-fa-transform="rotate-315"></i>```
 
 Facebook ```<i class="fab fa-facebook-square"></i> ```
 
-Twitter ```<i class="fab fa-twitter-square"></i> ``` \
+Twitter ```<i class="fab fa-twitter-square"></i> ```
  
 Youtube ``` <i class="fab fa-youtube"></i> ```
 
