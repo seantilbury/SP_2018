@@ -53,6 +53,9 @@ Mastercard ```<i class="fab fa-cc-mastercard"></i>```
 
 Paypal ```<i class="fab fa-paypal"></i>```
 
+Tripadvisor ```<i class="fab fa-tripadvisor"></i> ```
+
+
 ## Code Locations
 
 **functions.php** 
