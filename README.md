@@ -34,10 +34,22 @@ To edit packages and prices goto dashboard, **Settings** > **Post Snippets**
 ## Font Awesome Icons
 
 Phone ```<i class="fas fa-phone"></i>```
+
 Map ```<i class="fas fa-map"></i>```
+
 Plane ```<i class="fas fa-plane" data-fa-transform="rotate-315"></i>```
 
-Facebook
-Twitter
-Youtube
-Instagram
+Facebook ```<i class="fab fa-facebook-square"></i> ```
+
+Twitter ```<i class="fab fa-twitter-square"></i> ``` \
+ 
+Youtube ``` <i class="fab fa-youtube"></i> ```
+
+Instagram ```<i class="fab fa-instagram"></i> ```
+
+Visa ```<i class="fab fa-cc-visa"></i>```
+
+Mastercard ```<i class="fab fa-cc-mastercard"></i>```
+
+Paypal ```<i class="fab fa-paypal"></i>```
+
