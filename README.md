@@ -77,4 +77,4 @@ top left, dropdown
 "Duplicate Layout"
 Change Page title 
 change URL / Permalink
-click "page builder"
+click "Launch Page Builder"
