@@ -68,3 +68,13 @@ floating footer
 
 ## Image Sizes
 Activity Banner 990x100
+
+##Duplicating Pages
+
+Navigate to the page you wish to copy (the source)
+click "Page Builder"
+top left, dropdown 
+"Duplicate Layout"
+Change Page title 
+change URL / Permalink
+click "page builder"
