@@ -65,3 +65,6 @@ floating footer
 **header.php**
 
 ```Just a short drive from Gatwick Airport```
+
+## Image Sizes
+Activity Banner 990x100
