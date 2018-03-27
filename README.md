@@ -80,4 +80,5 @@ change URL / Permalink
 click "Launch Page Builder"
 
 ## 301 Redirects
-
+Old > New
+https://www.southernpursuits.co.uk/corporate-events/team-building-days/ .co.uk/team-building-days/
