@@ -58,7 +58,6 @@ With either  Archery, Axe Throwing OR Air rifle shooting
 
 Upgraded Dual Package
 Choose two of the following activities –
-
 Quad biking
 Clay pigeon shooting – 25 cartridges
 Argo cat driving
@@ -67,7 +66,6 @@ Hovercrafting / Off road karting (weather dependent)
 
 Target Madness – How good is your aim?
 Package includes:
-
 Clay pigeon shooting – 25 cartridges
 Archery
 Axe throwing
@@ -83,7 +81,6 @@ Archery
 
 Arrive and Drive
 Package includes:
-
 Hovercrafting / Off road karting (weather dependent)
 Quad Biking
 Argocat Driving
@@ -91,19 +88,16 @@ Argocat Driving
 
 Drive and Shoot
 Includes:
-
 Hovercrafts / Off Road Karting (weather dependent)
 Quad Biking
 Clay Pigeon Shooting
 Approx event time: 9.30am – 12.30pm or 1.00pm – 4.00pm*
-
 Off road Karting is weather permitting therefore during Autumn and Winter months this will be changed to Hovercrafting or another activity of your choice.
 A great mix of activities, ideal for the ultimate Stag or Hen party or birthday celebration.
 £104.99 + VAT
 
 The Adrenaline Day
 Includes 5 of the following activities:
-
 Off-road Karting/ Hovercrafts
 Quad Biking
 Clay Shooting
@@ -142,7 +136,6 @@ Add on Air Rifle Shooting for an extra £7.00 + VAT per person
 
 Team Time
 Includes the following;
-
 Argocat driving
 Clay shooting – 25 Cartridges
 Archery or Axe Throwing
@@ -151,7 +144,6 @@ Lunch – Beef burger, fries & refreshment
 
 Work and Play
 Package includes;
-
 Any two activities of your choice
 With Archery OR Axe Throwing
 Half Day conference at local 4* hotel
@@ -170,7 +162,6 @@ Free Parking
 
 Action Packed Adrenaline Day
 The Ultimate Adrenaline Experience!!
-
 Includes the following-
 Quad Biking
 Clay Pigeon Shooting – 25 Cartridges
@@ -182,7 +173,6 @@ Lunch – Beef burger, fries & refreshment
 
 Treat them & keep them
 Package includes the following;
-
 Quad Biking
 Clay Pigeon Shooting – 25 Cartridges
 Archery OR Axe Throwing
@@ -190,7 +180,7 @@ Lunch – Beef burger, fries & refreshment
 2 Hours of Team Building
 £135 + VAT per person
 
-Create Your Own
+Create Your Own Corporate Package
 If you can’t find your perfect corporate package which contains a healthy balance of fun and team development, please feel free to call us on 01293 611020 to discuss a tailor made package.
 
 
@@ -250,7 +240,7 @@ Beef Burger, fries and refreshment
 Based on 8 + guests
 £52.00+ VAT per person
 
-Create Your Own
+Create Your Own Stag Package
 Can’t find your perfect adrenaline fuelled package? Discuss a package that suit your needs with our expert team. We can mix and match activities to suit your party, please call us on 01293 653510 or email us on info@southernpursuits.co.uk to 
 
 
@@ -307,7 +297,7 @@ Upgrade to a glass of champagne for £5 + VAT pp
 From 8 + guests
 £69.99 + VAT per person
 
-Create Your Own
+Create Your Own Hen Package
 Can’t find your perfect package? Discuss your dream Hen Party with our expert team to suit your needs. We can mix and match events to suit your party please call us on 01293 653510 to discuss your options.
 
 
