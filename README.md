@@ -78,3 +78,6 @@ top left, dropdown
 Change Page title 
 change URL / Permalink
 click "Launch Page Builder"
+
+## 301 Redirects
+
