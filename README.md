@@ -55,6 +55,7 @@ Paypal ```<i class="fab fa-paypal"></i>```
 
 Tripadvisor ```<i class="fab fa-tripadvisor"></i> ```
 
+Checkout ``` <i class="fas fa-shopping-cart"></i> ```
 
 ## Code Locations
 
