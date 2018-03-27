@@ -18,14 +18,34 @@ p {
     margin-bottom: 0;
     color: #fff;
 }
+h3 {color:#fff}
 h3.widget-title {
     color: white;
 }
 header#masthead {
-    display: flex;
+    display: block;
     background-color: #000;
 }
+a {color:#fff}
+body {color:#fff}
+body:not(.theme-preset-active) #masthead .navbar-nav > li > a {color:#fff}
+body:not(.theme-preset-active) #masthead .navbar-nav > li > a:hover, body:not(.theme-preset-active) #masthead .navbar-nav > li.current_page_item > a {color:red}
 
+.headerintrotext {
+	color:#fff;
+	font-size: 0.75em;
+}
+.headerwidgets {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.headerwidgets .textwidget{
+	margin-top:1em;
+	text-align: center;
+}
+  
+a.telephone {color: #fff;font-size:1.5em;font-weight:600;padding:1em 0 1em 0.25em }
+a.telehone:hover {text-decoration:none!important}
 .fl-row-fixed-width {
     max-width: 1600px;
 }
@@ -37,8 +57,19 @@ header#masthead {
 .page-content, .entry-content, .entry-summary {
     margin-top: 0;
 }
+
+a.nav-link:hover {
+    font-weight: 500!important;
+}
+a.nav-link:active {
+    font-weight: 500!important;
+}
+.navbar-nav > li.current_page_item > a {
+    font-weight: 500!important;
+}
 .navbar-toggler {
-    background-color: #fff;
+    background-color: #E52027;
+	margin:0 auto;
 }
 .navbar-toggler-icon {
     padding-right: 1em;
@@ -51,17 +82,22 @@ header#masthead {
 .border {
     border: 0 !important;
 }
-.redbox {
-    height: 250px;
+.redbox { /* Red Boxes on Frontpage with logo's in*/
+    width:100%;
+	min-height:380px;
     background-color: #e52027 !important;
+	margin-bottom:0.5em;
 }
-.pricebox {
+.pricebox { /*boxes surrounding package pricing*/
     background: #fff;
     border-style: solid;
     border-color: red;
 	border-width:1px;
     border-radius: 3px;
-    margin: 2em;
+    margin-left: 2em;
+	margin-right: 2em;
+	min-height: 450px;
+	margin-top: 1em;
 }
 .pricebox p{
 	color:#000;
@@ -71,27 +107,87 @@ header#masthead {
 .pricebox a {
 	color:red;
 }
+.pricebox li {color:#000}
+
 #footer-widget {
     display: flex;
 }
-.site-footer {
-    background-color: #e52027 !important;
-    color: #fff !important;
+/*TRAVELADVISOR WIDGET CUSTOMISATION*/
+a#CDSLOCINNER { /*hides site name in tripadvisor widget*/display: none;}
+.cdsROW.narrow {width: 200px!important;}
+div#CDSROWCONTAINER897 {display:flex;}
+.cdsROW.narrow .cdsRating {order: 2;}
+.cdsROW.narrow .logo {order: 1;}
+.payment-icons {
+	font-size:2.5em;
+	display:grid;
+	grid-template-columns:33% 33% 33%
 }
-.site-info {
-    width: 165px;
-    margin: 0 auto;
+.corp-logo {
+	background-color: #fff;
 }
+/* FLOATING Contact/directions/book BAR */
+
+.floating-bar {
+	background-color: #e52027;
+	color:#fff;
+	box-shadow: 0 0 9px rgba(0, 0, 0, 0.25);
+	padding: 13px;
+	position: fixed;
+		bottom: 0;
+		left: 0;
+	width: 100%;
+	text-align:center;
+	z-index: 80; /* hide behind footer at bottom of page */
+}
+.floating-bar a {color :#fff}
+.block-double-lr {
+    display:grid; 
+    grid-template-columns: 33.3% 33.3% 33.3%;
+}
+
+a.call-us-footer {text-transform:uppercase;}
+a.call-us-footer:hover {font-weight:500;text-decoration:none}
+a.book-now-footer {text-transform:uppercase;}
+a.book-now-footer:hover {font-weight:500;text-decoration:none}
+a.directions-footer {text-decoration:none;text-transform:uppercase;}
+a.directions-footer:hover {font-weight:500;text-decoration:none}
 
 @media (min-width: 1200px){
 .container {
 max-width: 1900px;
 }
 }
+
+@media all and (max-width: 900px) {
+
+	.floating-bar {
+		/* display: none; //remove comment to hide on mobile */
+		text-align: center;
+	}
+
+}
+
 @media (min-width: 768px) {
+	header#masthead {
+	display:flex;
+	}
+	.headerwidgets {
+    display: block;
+}
+	.navbar-brand {
+		width:260px
+	}
+	a.telephone {font-size:1.1em;}
+	.pricebox {
+		height: 400px;
+	}
+	.redbox {
+		width:85%;
+	}
 .col-md-4 {
     max-width: 25%;
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
-}
+	}
 }
