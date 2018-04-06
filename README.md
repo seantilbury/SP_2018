@@ -32,6 +32,7 @@ To edit packages and prices goto dashboard, **Settings** > **Post Snippets**
 
 
 ## Font Awesome Icons
+https://fontawesome.com/icons
 
 Phone ```<i class="fas fa-phone"></i>```
 
