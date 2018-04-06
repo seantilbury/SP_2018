@@ -18,6 +18,7 @@ p {
     margin-bottom: 0;
     color: #fff;
 }
+.pum-content.popmake-content p {color:#000} /*color of text of popups*/
 h3 {color:#fff}
 h3.widget-title {
     color: white;
@@ -34,6 +35,7 @@ body:not(.theme-preset-active) #masthead .navbar-nav > li > a:hover, body:not(.t
 .headerintrotext {
 	color:#fff;
 	font-size: 0.75em;
+	text-align: center;
 }
 .headerwidgets {
     display: grid;
@@ -57,7 +59,7 @@ a.telehone:hover {text-decoration:none!important}
 .page-content, .entry-content, .entry-summary {
     margin-top: 0;
 }
-
+body:not(.theme-preset-active) #masthead .navbar-nav > li > a {font-size: 1rem}
 a.nav-link:hover {
     font-weight: 500!important;
 }
@@ -67,6 +69,11 @@ a.nav-link:active {
 .navbar-nav > li.current_page_item > a {
     font-weight: 500!important;
 }
+
+.dropdown-menu .dropdown-item {
+    line-height: 2.3;
+}
+
 .navbar-toggler {
     background-color: #E52027;
 	margin:0 auto;
@@ -108,16 +115,38 @@ a.nav-link:active {
 	color:red;
 }
 .pricebox li {color:#000}
-
+.fl-html {
+    color: #000;
+}
+.socialbar {font-size:3em}
+.socialbar svg.svg-inline--fa {
+    margin: 0 1rem 0 1rem;
+}
+.socialicons {color:#fff;font-size:3em;text-align:center;}
 #footer-widget {
     display: flex;
+	text-align: center;
+}
+#footer-widget #mc_embed_signup {
+	margin: 0 auto;
+    background: #202020;
+}
+#mc_embed_signup input.email {
+   
+    margin: 0 auto;
 }
 /*TRAVELADVISOR WIDGET CUSTOMISATION*/
-a#CDSLOCINNER { /*hides site name in tripadvisor widget*/display: none;}
-.cdsROW.narrow {width: 200px!important;}
+.cdsROW.narrow.border {
+    margin: 0 auto;
+}
+a#CDSLOCINNER { /*hides site name in tripadvisor widget*/  /*display: none;*/}
+/*
+.cdsROW.narrow {width: 350px!important;}
 div#CDSROWCONTAINER897 {display:flex;}
 .cdsROW.narrow .cdsRating {order: 2;}
-.cdsROW.narrow .logo {order: 1;}
+.cdsROW.narrow .logo {order: 1; padding-top:0px!important}
+*/
+
 .payment-icons {
 	font-size:2.5em;
 	display:grid;
@@ -169,6 +198,11 @@ max-width: 1900px;
 }
 
 @media (min-width: 768px) {
+	
+	body:not(.theme-preset-active) #masthead .navbar-nav > li > a {
+    font-size: 1.25rem;
+}
+	
 	header#masthead {
 	display:flex;
 	}
