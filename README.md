@@ -70,6 +70,7 @@ floating footer
 
 ## Image Sizes
 Activity Banner 990x100
+Posts Featured Image 300x300
 
 ##Duplicating Pages
 
