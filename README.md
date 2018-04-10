@@ -11,7 +11,10 @@ SP_2018 dev child theme
 **White**		    #FFFFFF
 
 **Red** 		    #E52027
+## Popups trigger classes
 
+.16plus = Agre restricion 16+ popup
+.popup-contact = Book Now Popup
 
 ## Shortcodes for Prices and Packages
 
