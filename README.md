@@ -14,6 +14,7 @@ SP_2018 dev child theme
 ## Popups trigger classes
 
 .16plus = Agre restricion 16+ popup
+
 .popup-contact = Book Now Popup
 
 ## Shortcodes for Prices and Packages
@@ -60,6 +61,8 @@ Paypal ```<i class="fab fa-paypal"></i>```
 Tripadvisor ```<i class="fab fa-tripadvisor"></i> ```
 
 Checkout ``` <i class="fas fa-shopping-cart"></i> ```
+
+FAQ ``` <i class="fas fa-question-circle"></i> ```
 
 ## Code Locations
 
