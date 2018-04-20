@@ -19,20 +19,11 @@ SP_2018 dev child theme
 
 ## Shortcodes for Prices and Packages
 
-To edit packages and prices goto dashboard, **Settings** > **Post Snippets**
+**Single Activities**
 
-[rage] - Rage Single Activity
-
-[adrenalineday] - Adrenaline Day Package
-
-[dualpackage] - Dual Package
-
-[upgradeddual] - Upgraded Dual Package
+[pods name="single_activity" slug="slug-of-activity" template="Single Activity Template"]
 
 
-[targetmadness] - Target Madness
-
-[aimandterrain] - Aim and Terrain
 
 
 ## Font Awesome Icons
