@@ -13,7 +13,7 @@ SP_2018 dev child theme
 **Red** 		    #E52027
 ## Popups trigger classes
 
-.16plus = Agre restricion 16+ popup
+.16plus = Age restricion 16+ popup
 
 .popup-contact = Book Now Popup
 
@@ -66,7 +66,11 @@ floating footer
 ```Just a short drive from Gatwick Airport```
 
 ## Image Sizes
-Activity Banner 990x100
+Activity pages slider image sizes
+1100x450
+
+Activity Banner 990x100 **no longer used replaced by slider**
+
 Posts Featured Image 300x300
 
 ##Duplicating Pages
