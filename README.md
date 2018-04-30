@@ -11,6 +11,7 @@ SP_2018 dev child theme
 **White**		    #FFFFFF
 
 **Red** 		    #E52027
+
 ## Popups trigger classes
 
 .16plus = Age restricion 16+ popup
@@ -73,7 +74,7 @@ Activity Banner 990x100 **no longer used replaced by slider**
 
 Posts Featured Image 300x300
 
-##Duplicating Pages
+## Duplicating Pages
 
 Navigate to the page you wish to copy (the source)
 click "Page Builder"
