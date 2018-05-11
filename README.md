@@ -21,8 +21,15 @@ SP_2018 dev child theme
 ## Shortcodes for Prices and Packages
 
 **Single Activities**
+Price of Single Activity
 
 [pods name="single_activity" slug="slug-of-activity" template="Single Activity Template"]
+
+
+
+Special Offers
+
+[pods name="multiple_activity_pa" where="quads.meta_value='1'" template="Multi Activity Package List"]
 
 
 
