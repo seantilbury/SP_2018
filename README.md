@@ -74,9 +74,11 @@ floating footer
 ```Just a short drive from Gatwick Airport```
 
 ## Image Sizes
+Special Offer images
+350x350
 
 Header Slider Frontpage
-1920 x 800
+1520 x 440
 
 Activity pages slider image sizes
 1100x450
