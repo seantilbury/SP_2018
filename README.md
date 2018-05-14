@@ -74,6 +74,10 @@ floating footer
 ```Just a short drive from Gatwick Airport```
 
 ## Image Sizes
+
+Header Slider Frontpage
+1920 x 800
+
 Activity pages slider image sizes
 1100x450
 
