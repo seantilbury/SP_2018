@@ -12,6 +12,10 @@ SP_2018 dev child theme
 
 **Red** 		    #E52027
 
+## Fonts
+
+Rajdhani (google font)
+
 ## Popups trigger classes
 
 .16plus = Age restricion 16+ popup
