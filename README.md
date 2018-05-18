@@ -124,3 +124,32 @@ https://www.southernpursuits.co.uk/corporate-events/team-building-days/ .co.uk/t
   ExpiresByType image/png "access plus 1 year"
   ExpiresByType image/gif "access plus 1 year"
 </IfModule>
+
+## Social Icons code
+
+<div class="socialicons">
+    <a href="tel:01293 611020">
+<i class="fas fa-phone"></i>
+</a>
+    
+    <a href="mailto:info@southernpursuits.co.uk">
+<i class="fas fa-envelope"></i>
+</a>
+
+    <a href="https://www.tripadvisor.co.uk/Attraction_Review-g187051-d1825715-Reviews-Southern_Pursuits-Crawley_West_Sussex_England.html">
+<i class="fab fa-tripadvisor"></i>
+</a>
+
+    <a href="https://www.facebook.com/Southern-Pursuits-100192366710650/">
+<i class="fab fa-facebook-square"></i>
+</a>
+    <a href="https://twitter.com/Southernpursuit">
+<i class="fab fa-twitter-square"></i>
+</a>
+    <a href="https://www.instagram.com/southernpursuits/">
+<i class="fab fa-instagram"></i>
+</a>
+    <a href="https://www.youtube.com/channel/UCxN2LfMMxxnhDz1lT8i3Gew">
+<i class="fab fa-youtube"></i>
+</a>
+</div>
