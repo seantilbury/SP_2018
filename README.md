@@ -82,7 +82,7 @@ Special Offer images
 350x350
 
 Header Slider Frontpage
-1520 x 440
+1520 x 468
 
 Activity pages slider image sizes
 1100x450
