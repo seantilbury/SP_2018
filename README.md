@@ -118,7 +118,11 @@ https://www.southernpursuits.co.uk/prices/hen-packages/  /hen-packages/
 
 https://www.southernpursuits.co.uk/prices/special-offers/  /special-offers/
 
+https://www.southernpursuits.co.uk/category/news/  /category/blog/
 
+https://www.southernpursuits.co.uk/outdooractivities/facilities-private-parties/
+
+https://www.southernpursuits.co.uk/outdooractivities/catering-private-parties/
 
 ## .htaccess (production only) 'Leverage Browser Caching'
 
