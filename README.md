@@ -103,7 +103,21 @@ click "Launch Page Builder"
 
 ## 301 Redirects
 Old > New
-https://www.southernpursuits.co.uk/corporate-events/team-building-days/ .co.uk/team-building-days/
+
+https://www.southernpursuits.co.uk/corporate-events/team-building-days/   /team-building-days/
+
+https://www.southernpursuits.co.uk/prices/   /single-activity-prices/
+
+https://www.southernpursuits.co.uk/prices/activity-packages/   /multi-activity-package-prices/
+
+https://www.southernpursuits.co.uk/prices/corporate-packages/ /corporate-packages/
+
+https://www.southernpursuits.co.uk/prices/stag-packages/  /stag-packages/
+
+https://www.southernpursuits.co.uk/prices/hen-packages/  /hen-packages/
+
+https://www.southernpursuits.co.uk/prices/special-offers/  /special-offers/
+
 
 
 ## .htaccess (production only) 'Leverage Browser Caching'
